@@ -1,0 +1,2 @@
+ollama>=0.1.0
+bert-score>=0.3.11
