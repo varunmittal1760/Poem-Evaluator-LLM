@@ -1,6 +1,6 @@
 # ✍️ AI Poetry Generator & Evaluator
 
-**Generate beautiful poems using lightweight LLMs (like Phi-3, Gemma, TinyLlama) and evaluate their quality with BERTScore.**
+**Generate beautiful poems using LLMs (like Phi-3, Gemma, TinyLlama, Llama 3.2) and evaluate their quality with BERTScore.**
 
 ![Demo GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW0yY2hqM2RjOGV1dXJtY3JtM3B6Y2VlZzR6eHp2eGJ6YzZ5dW9xZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif)  
 
