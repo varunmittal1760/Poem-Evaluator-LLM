@@ -1,22 +1,6 @@
 ✍️ AI Poetry Generator & Evaluator
 Generate beautiful poems using lightweight LLMs (like Phi-3, Gemma, TinyLlama) and evaluate their quality with BERTScore.
 
-
-
-🌟 Features
-
-Lightweight Model Support:
-phi3 (3.8B) | gemma:2b | tinyllama (1.1B) | llama3.2
-Optimized for speed and low resource usage
-Customizable Generation:
-Adjust creativity (temperature)
-Control poem length (max_tokens)
-Quality Evaluation:
-BERTScore (Precision, Recall, F1) against reference poems
-Auto-evaluation when reference is pasted
-User-Friendly Interface:
-Gradio web app
-Example prompts & real-time feedback
 🚀 Quick Start
 
 Prerequisites
