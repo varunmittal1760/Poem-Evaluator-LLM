@@ -12,10 +12,10 @@ Installation
 git clone https://github.com/yourusername/ai-poetry-generator.git
 cd ai-poetry-generator
 
-# Install dependencies
+Install Dependencies
 pip install -r requirements.txt
 
-# Download models (choose at least one)
+Download models (choose at least one)
 ollama pull phi3       # Recommended (best balance)
 ollama pull gemma:2b   # Google's lightweight
 ollama pull tinyllama  # Fastest option
